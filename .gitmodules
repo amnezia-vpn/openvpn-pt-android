@@ -1,0 +1,18 @@
+[submodule "cloak"]
+	path = cloak
+	url = https://github.com/amnezia-vpn/Cloak
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/schwabe/platform_external_openssl.git
+[submodule "lz4"]
+	path = lz4
+	url = https://github.com/lz4/lz4.git
+[submodule "asio"]
+	path = asio
+	url = https://github.com/chriskohlhoff/asio
+[submodule "openvpn3"]
+	path = openvpn3
+	url = https://github.com/amnezia-vpn/openvpn3.git
+[submodule "lzo"]
+	path = lzo
+	url = https://github.com/amnezia-vpn/lzo.git
