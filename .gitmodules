@@ -10,9 +10,10 @@
 [submodule "asio"]
 	path = asio
 	url = https://github.com/chriskohlhoff/asio
-[submodule "openvpn3"]
-	path = openvpn3
-	url = https://github.com/amnezia-vpn/openvpn3.git
 [submodule "lzo"]
 	path = lzo
 	url = https://github.com/amnezia-vpn/lzo.git
+[submodule "openvpn3"]
+	path = openvpn3
+	url = https://github.com/amnezia-vpn/openvpn3
+	branch = ios-proj-refactor
